@@ -1,4 +1,4 @@
-# hello :)
+**hello :)**
 
 My name is Mazal and I am a MSc student at the Weizmann Institute
 
