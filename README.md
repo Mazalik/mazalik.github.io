@@ -1,11 +1,10 @@
-# mazalik.github.io
+# mazalik
+Hello :) 
+My name is Mazal and I am a MSc student at the Weizmann Institute
 
-This is my main page
+  BSc in biotechnology and food engineering from the Israel Institute of Technology (Technion); Enthusiastic about innovative treatments for diseases and aspire to lead   research to develop biological medicines. I enjoy baking, traveling, chasing after sunsets and spending time with friends and family.
 
-trying to upload a picture from my personal computer:
-![processed-1C2C35C8-BC14-4756-9DF9-60194B99E932 (002)](https://github.com/Mazalik/mazalik.github.io/assets/166901653/7e114619-eaa8-446f-971a-0ac8a82803a4)
-
-trying to upload a picture from img folder:
+Moly
 ![](/img/moly.jpeg)
 
-[trying to add a link to my Sunsets page](/Sunsets)
+[Visit my hobbies page](/Sunsets)
