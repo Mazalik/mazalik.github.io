@@ -1,11 +1,27 @@
-title: "Mazal Faraj"
-description: "A personal web page"
-cover_image: '/img/IMG_4420.jpg'
+title: Title of your CV site
+profile_img: assets/img/profile.webp
+icon_img: assets/img/icon.webp
+
+name: "Your Name Here"
+job: "〈Your Job Here〉"
+
+phone_number: 012-345-6789
+address: City, Country
+email: email@example.com
+linkedin_username: linkedin
+github_username: github
+instagram_username: instagram
+twitter_username: twitter
+facebook_username: facebook
+youtube_username: youtube
+blog_url: homepage-url
+
+exclude:
+  - _posts/
+  - resources/
+  - vendor/
 
 plugins:
-  - jekyll-remote-theme
-
-remote_theme: vszhub/not-pure-poole
-
-include:
-  - README.md  # If you want to make sure README.md is processed
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
