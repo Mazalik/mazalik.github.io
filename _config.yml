@@ -1,3 +1,11 @@
-theme: jekyll-theme-cayman
-title: Mazal Faraj
-description: Welcome to my page!
+title: "Mazal Faraj"
+description: "A personal web page"
+cover_image: '/img/Moly.jpeg'
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: vszhub/not-pure-poole
+
+include:
+  - README.md  # If you want to make sure README.md is processed
