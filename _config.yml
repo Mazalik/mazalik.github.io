@@ -1,6 +1,6 @@
 title: "Mazal Faraj"
 description: "A personal web page"
-cover_image: '/img/moly.jpeg'
+cover_image: '/img/IMG_4420.jpg'
 
 plugins:
   - jekyll-remote-theme
