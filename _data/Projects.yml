@@ -6,15 +6,4 @@ contents:
     description: 
       - From plants to bacterial cells, biomanufacturing decursin to treat chemotherapy-induced alopecia (CIA)
       - IGEM 2022
-      - https://2022.igem.wiki/technion-israel/
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
-    description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
-    description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - ([https://2022.igem.wiki/technion-israel/](https://2022.igem.wiki/technion-israel/))
