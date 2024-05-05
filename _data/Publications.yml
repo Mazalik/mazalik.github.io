@@ -1,3 +1,8 @@
 subject: Hobbies
 listing-order: 4
 icon: "/assets/img/flask.svg"
+contents:
+  - title: "Angel Roots"
+    description: 
+      - From plants to bacterial cells, biomanufacturing decursin to treat chemotherapy-induced alopecia (CIA)
+      - IGEM 2022 [https://2022.igem.wiki/technion-israel/](https://2022.igem.wiki/technion-israel/)
